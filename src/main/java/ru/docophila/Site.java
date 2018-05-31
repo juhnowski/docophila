@@ -34,11 +34,37 @@ public class Site {
             return Ok.getPage(tempFile.getFileName().toString());
         });
 
+        get("/upload", (req,res)->{
+            String url = req.url();
+            Integer i = rep.get(url);
+
+            if (i==null){
+                return Progress.PAGE;
+            } else {
+                i++;
+                if (i>3){
+                    rep.remove(url);
+                    return "<h1>Возникла ошибка, попробуйте <a href=\"upload.html\">повторить загрузку</a>.</h1>";
+                } else {
+                    rep.put(url, i);
+                    return Progress.PAGE;
+                }
+            }
+        });
+
         // Using string/html
         notFound((req, res) -> {
             String url = req.url();
-                    Integer i = rep.get(url);
+            if(!((url.contains("http://docophila.ru/"))&&(url.contains(".png.json")))){
+                
+                System.out.println("DDos to url="+url);
+                return "";
+            }
+            Integer i = rep.get(url);
+            System.out.println("url="+url+" i="+i);
+
                     if (i==null){
+                        rep.put(url, 1);
                         return Progress.PAGE;
                     } else {
                         i++;

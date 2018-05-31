@@ -2,17 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="900d68c7-7406-4a7a-a180-9ea3ed010e1f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/docophila/Ok.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/docophila/Progress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/test1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/upload.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/docophila/Progress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/docophila/Progress.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/docophila/Site.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/docophila/Site.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/docophila/Site.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/docophila/Site.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/public/3208629999986256778.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/public/3208629999986256778.png.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/public/3310955035388327402.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/public/3310955035388327402.png.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/public/4649815349296958287.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/public/4649815349296958287.png.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/public/5262194255853916504.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/public/5262194255853916504.png.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/public/716916696499877195.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/public/716916696499877195.png.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/public/7284217081521578562.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/public/7284217081521578562.png.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/public/7586408121275955772.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/public/7586408121275955772.png.json" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,8 +42,8 @@
       <file leaf-file-name="Site.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/docophila/Site.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="599">
-              <caret line="45" column="44" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
+            <state relative-caret-position="315">
+              <caret line="58" column="16" lean-forward="true" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -67,8 +72,8 @@
       <file leaf-file-name="Progress.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/docophila/Progress.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="46" selection-end-column="1" />
+            <state relative-caret-position="140">
+              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -134,8 +139,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/public/index.html" />
         <option value="$PROJECT_DIR$/src/main/java/ru/docophila/Ok.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/docophila/Progress.java" />
         <option value="$PROJECT_DIR$/src/main/resources/public/upload.html" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/docophila/Progress.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/docophila/Site.java" />
       </list>
     </option>
@@ -170,10 +175,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="869" />
-    <option name="y" value="14" />
-    <option name="width" value="1060" />
-    <option name="height" value="987" />
+    <option name="x" value="891" />
+    <option name="y" value="24" />
+    <option name="width" value="1007" />
+    <option name="height" value="1009" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -376,12 +381,12 @@
       <workItem from="1526701761233" duration="1613000" />
       <workItem from="1526777358245" duration="5408000" />
       <workItem from="1527109795994" duration="11882000" />
-      <workItem from="1527202748839" duration="2682000" />
+      <workItem from="1527202748839" duration="8562000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37762000" />
+    <option name="totallyTimeSpent" value="43642000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -393,16 +398,17 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.15885417" side_tool="true" visible="true" weight="0.18796198" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.15885417" side_tool="true" visible="true" weight="0.25976768" />
       <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.08229167" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8411458" visible="true" weight="0.18796198" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8411458" visible="true" weight="0.25976768" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16927083" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32629356" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -414,7 +420,6 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32629356" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -634,15 +639,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/docophila/Progress.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="46" selection-end-column="1" />
+        <state relative-caret-position="140">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/docophila/Site.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="45" column="44" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
+        <state relative-caret-position="315">
+          <caret line="58" column="16" lean-forward="true" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

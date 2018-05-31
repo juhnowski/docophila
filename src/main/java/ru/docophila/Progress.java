@@ -29,7 +29,7 @@ public class Progress {
             "function move() {\n" +
             "  var elem = document.getElementById(\"myBar\");   \n" +
             "  var width = 0;\n" +
-            "  var id = setInterval(frame, 100);\n" +
+            "  var id = setInterval(frame, 1000);\n" +
             "  function frame() {\n" +
             "    if (width >= 100) {\n" +
             "      location.reload();\n" +
